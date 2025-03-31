@@ -35,7 +35,7 @@
 <h2 align="center">🏆 GitHub Trophies</h2>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=skimatt&theme=nord&column=14&no-frame=true" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=skimatt&theme=nord&column=8&no-frame=true" alt="GitHub Trophies" />
 </p>
 
 <h2 align="center">🔗 Connect With Me</h2>
@@ -53,7 +53,7 @@
   
   ### 👀 Profile Visits
   
-  ![Profile Views](https://komarev.com/ghpvc/?username=skimatt&color=blueviolet&style=flat-square)
+  ![Profile Views](https://komarev.com/ghpvc/?username=skimatt&color=blueviolet&style=flat-square&base=1654)
   
 </div>
 
