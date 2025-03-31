@@ -12,14 +12,6 @@
   
 </div>
 
-<h2 align="center">✨ About Me</h2>
-
-<div align="center">
-  <p>Passionate developer creating elegant solutions to complex problems. Always learning, always growing.</p>
-  <p>💡 Currently exploring new technologies and building exciting projects</p>
-  <p>🌱 Learning more about cloud architecture and AI integration</p>
-  <p>💬 Ask me about web development, automation, or anything tech-related!</p>
-</div>
 
 <h2 align="center">📊 GitHub Analytics</h2>
 
