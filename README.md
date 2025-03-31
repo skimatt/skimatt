@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Montserrat&color=36BCF7&size=45&center=true&vCenter=true&width=1000&lines=👋+Hi,+I'm+skimatt!;Welcome+to+my+GitHub!;Full-Stack+Developer+%26+Problem+Solver;Let's+build+something+amazing+together!)](https://git.io/typing-svg)
 
-<div align="center">
-  <img src="https://i.imgur.com/QvOWMBB.gif" alt="Profile Banner" width="800"/>
+<div style="position: relative; width: 100%; height: 100vh; overflow: hidden;">
+  <img src="https://i.pinimg.com/originals/e1/7a/b9/e17ab9681bec36303a67cd0e13a7b170.gif" alt="Profile GIF" style="position: absolute; top: 50%; left: 50%; width: 100vw; height: auto; transform: translate(-50%, -50%)"/>
 </div>
 
 <h2 align="center">🧰 Languages & Tools</h2>
@@ -44,6 +44,7 @@
   
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/skimatt)
   [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/skimatt)
+  [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/skimatt_)
   [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://skimatt.github.io/RahmatMulia/)
   
 </div>
