@@ -1,54 +1,63 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Montserrat&color=36BCF7&size=45&center=true&vCenter=true&width=1000&lines=👋+Hi,+I'm+skimatt!;Welcome+to+my+GitHub!;Full-Stack+Developer+%26+Problem+Solver;Let's+build+something+amazing+together!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Orbitron&color=F637EC&size=45&center=true&vCenter=true&width=1000&lines=01101000+01101001+I'm+skimatt;WELCOME+TO+MY+DIGITAL+REALM;FULL-STACK+NETRUNNER+%26+CODE+ARCHITECT;LET'S+HACK+THE+MAINFRAME+TOGETHER)](https://git.io/typing-svg)
 
 <div align="center">
   <img src="https://i.pinimg.com/originals/e1/7a/b9/e17ab9681bec36303a67cd0e13a7b170.gif" alt="Profile GIF" width="800"/>
 </div>
 
-<h2 align="center">🧰 Languages & Tools</h2>
+<h2 align="center"><span style="color:#F637EC">⚡ TECH AUGMENTATIONS ⚡</span></h2>
 
 <div align="center">
   
-  [![My Skills](https://skillicons.dev/icons?i=html,css,js,python,php,react,nodejs,mysql,git,vscode)](https://github.com/skimatt)
+  [![My Arsenal](https://skillicons.dev/icons?i=html,css,js,python,php,react,nodejs,mysql,git,vscode&theme=dark)](https://github.com/skimatt)
   
 </div>
 
-
-<h2 align="center">📊 GitHub Analytics</h2>
+<h2 align="center"><span style="color:#00F5FF">📊 NEURAL METRICS</span></h2>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=skimatt&theme=tokyonight&hide_border=true&background=1A1B27" alt="GitHub Streak" height="180em" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=skimatt&theme=synthwave&hide_border=true&background=000000&stroke=00F5FF&fire=F637EC&currStreakNum=F637EC&ring=00F5FF&currStreakLabel=00F5FF&sideNums=F637EC&sideLabels=00F5FF" alt="GitHub Streak" height="180em" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=skimatt&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1A1B27" alt="GitHub Stats" height="180em" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=skimatt&layout=compact&theme=tokyonight&hide_border=true&bg_color=1A1B27" alt="Top Languages" height="180em" />
+  <img src="https://github-readme-stats.vercel.app/api?username=skimatt&show_icons=true&theme=radical&hide_border=true&bg_color=000000&title_color=00F5FF&text_color=F637EC&icon_color=00F5FF" alt="GitHub Stats" height="180em" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=skimatt&layout=compact&theme=radical&hide_border=true&bg_color=000000&title_color=00F5FF&text_color=F637EC" alt="Top Languages" height="180em" />
 </p>
 
-<h2 align="center">🏆 GitHub Trophies</h2>
+<h2 align="center"><span style="color:#F637EC">🏆 BLACK MARKET ACHIEVEMENTS</span></h2>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=skimatt&theme=nord&column=8&no-frame=true" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=skimatt&theme=radical&column=8&no-frame=true&margin-w=15" alt="GitHub Trophies" />
 </p>
 
-<h2 align="center">🔗 Connect With Me</h2>
+<h2 align="center"><span style="color:#00F5FF">🔗 NETWORK UPLINKS</span></h2>
 
 <div align="center">
   
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rahmatmulia)
-  [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/skie)
-  [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/skimatt_)
-  [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://skimatt.github.io/RahmatMulia/)
-  
-</div>
-
-<div align="center">
-  
-  ### 👀 Profile Visits
-  
-  ![Profile Views](https://komarev.com/ghpvc/?username=skimatt&color=blueviolet&style=flat-square&base=1654)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A0A0A?style=for-the-badge&logo=linkedin&logoColor=00F5FF)](https://linkedin.com/in/rahmatmulia)
+  [![Twitter](https://img.shields.io/badge/Twitter-0A0A0A?style=for-the-badge&logo=twitter&logoColor=F637EC)](https://twitter.com/skie)
+  [![Instagram](https://img.shields.io/badge/Instagram-0A0A0A?style=for-the-badge&logo=instagram&logoColor=00F5FF)](https://instagram.com/skimatt_)
+  [![Portfolio](https://img.shields.io/badge/Portfolio-0A0A0A?style=for-the-badge&logo=google-chrome&logoColor=F637EC)](https://skimatt.github.io/RahmatMulia/)
   
 </div>
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Animated Divider" width="100%">
+  
+  ### <span style="color:#F637EC">👁️ SURVEILLANCE COUNTER</span>
+  
+  ![Profile Views](https://komarev.com/ghpvc/?username=skimatt&color=F637EC&style=flat-square&base=1654)
+  
+</div>
+
+<div align="center">
+  <img src="https://i.imgur.com/waxVImv.png" alt="Animated Divider" width="100%" height="4">
+</div>
+
+<div align="center">
+  <pre style="background-color:#000000;color:#00F5FF;font-family:Consolas;">
+   _______ ____  _____ ________     
+  / ____(_) __ \/ ___// ____/ /_  
+ / /   / / /_/ /\__ \/ __/ / __ \ 
+/ /___/ / ____/___/ / /___/ / / / 
+\____/_/_/    /____/_____/_/ /_/  
+  </pre>
 </div>
