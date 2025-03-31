@@ -33,8 +33,6 @@
 
 <div align="center">
   
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A0A0A?style=for-the-badge&logo=linkedin&logoColor=00F5FF)](https://linkedin.com/in/rahmatmulia)
-  [![Twitter](https://img.shields.io/badge/Twitter-0A0A0A?style=for-the-badge&logo=twitter&logoColor=F637EC)](https://twitter.com/skie)
   [![Instagram](https://img.shields.io/badge/Instagram-0A0A0A?style=for-the-badge&logo=instagram&logoColor=00F5FF)](https://instagram.com/skimatt_)
   [![Portfolio](https://img.shields.io/badge/Portfolio-0A0A0A?style=for-the-badge&logo=google-chrome&logoColor=F637EC)](https://skimatt.github.io/RahmatMulia/)
   
@@ -54,10 +52,12 @@
 
 <div align="center">
   <pre style="background-color:#000000;color:#00F5FF;font-family:Consolas;">
-   _______ ____  _____ ________     
-  / ____(_) __ \/ ___// ____/ /_  
- / /   / / /_/ /\__ \/ __/ / __ \ 
-/ /___/ / ____/___/ / /___/ / / / 
-\____/_/_/    /____/_____/_/ /_/  
+  _____       _           _     _       
+ |  __ \     (_)         | |   (_)      
+ | |__) |__ _ _ _ __   __| |    _  ___  
+ |  _  // _` | | '_ \ / _` |   | |/ _ \ 
+ | | \ \ (_| | | | | | (_| |_  | |  __/ 
+ |_|  \_\__,_|_|_| |_|\__,_(_) |_|\___| 
+
   </pre>
 </div>
