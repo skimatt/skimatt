@@ -35,7 +35,7 @@
 <h2 align="center">🏆 GitHub Trophies</h2>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=skimatt&theme=nord&column=7&no-frame=true" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=skimatt&theme=nord&column=14&no-frame=true" alt="GitHub Trophies" />
 </p>
 
 <h2 align="center">🔗 Connect With Me</h2>
