@@ -1,8 +1,14 @@
 <div align="center">
-  ![Glitch Effect](https://path_to_your_image.gif) <!-- Replace with your image URL -->
+  <svg width="300" height="100" xmlns="http://www.w3.org/2000/svg">
+    <defs>
+      <linearGradient id="grad1" x1="0%" y1="0%" x2="100%" y2="100%">
+        <stop offset="0%" style="stop-color:rgb(255,0,0);stop-opacity:1" />
+        <stop offset="100%" style="stop-color:rgb(0,0,255);stop-opacity:1" />
+      </linearGradient>
+    </defs>
+    <text x="10" y="50" font-family="Verdana" font-size="35" fill="url(#grad1)">skimatt</text>
+  </svg>
 </div>
-
-
 
   <!-- Forest Landscape GIF -->
   <img src="https://i.pinimg.com/originals/05/26/fc/0526fc32bae551832ca57149d92c5dd0.gif" alt="Forest Landscape" width="800"/>
