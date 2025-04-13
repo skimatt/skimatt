@@ -1,43 +1,39 @@
 <div align="center">
-
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Sacramento&color=9D65C9&size=45&center=true&vCenter=true&width=1000&lines=Welcome+to+my+peaceful+sanctuary;Where+code+and+nature+become+one;Creating+digital+gardens+with+every+line;Let's+grow+something+beautiful+together)](https://git.io/typing-svg)
-
-  <img src="https://i.pinimg.com/originals/05/26/fc/0526fc32bae551832ca57149d92c5dd0.gif" alt="Forest Landscape" width="800"/>
-
-  ### 🌿 My Garden Tools 🌿
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Rock+Salt&color=FF0000&size=45&center=true&vCenter=true&width=1000&lines=Welcome+to+my+rock+%26+roll+rebellion;Where+code+and+heavy+metal+unite;Shredding+digital+solos+with+every+line;Let's+create+something+legendary+together)](https://git.io/typing-svg)
+  <img src="https://i.gifer.com/origin/0e/0e36e50e81d7df761a0a1d532a1bce24.gif" alt="Rock Concert" width="800"/>
+  ### 🎸 My Shredding Tools 🎸
   
-  [![Garden Tools](https://skillicons.dev/icons?i=html,css,js,python,php,react,nodejs,mysql,git,vscode&theme=dark)](https://github.com/skimatt)
+  [![Shredding Tools](https://skillicons.dev/icons?i=html,css,js,python,php,react,nodejs,mysql,git,vscode&theme=dark)](https://github.com/skimatt)
   
-  ### 🔮 GitHub Stats 🔮
+  ### 🔥 GitHub Stats 🔥
   
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=skimatt&theme=material-palenight&hide_border=true&background=1E1033&stroke=9D65C9&fire=B288E0&currStreakNum=AA7ED3&ring=8A4FBD&currStreakLabel=AA7ED3&sideNums=AA7ED3&sideLabels=8A4FBD" alt="GitHub Streak" height="180em" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=skimatt&theme=radical&hide_border=true&background=000000&stroke=FF0000&fire=FF5500&currStreakNum=FFFFFF&ring=FF0000&currStreakLabel=FFFFFF&sideNums=FFFFFF&sideLabels=FF0000" alt="GitHub Streak" height="180em" />
   
   <table>
     <tr>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=skimatt&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1E1033&title_color=AA7ED3&text_color=B288E0&icon_color=8A4FBD" alt="GitHub Stats" />
+        <img src="https://github-readme-stats.vercel.app/api?username=skimatt&show_icons=true&theme=radical&hide_border=true&bg_color=000000&title_color=FF0000&text_color=FFFFFF&icon_color=FF5500" alt="GitHub Stats" />
       </td>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=skimatt&layout=compact&theme=tokyonight&hide_border=true&bg_color=1E1033&title_color=AA7ED3&text_color=B288E0" alt="Top Languages" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=skimatt&layout=compact&theme=radical&hide_border=true&bg_color=000000&title_color=FF0000&text_color=FFFFFF" alt="Top Languages" />
       </td>
     </tr>
   </table>
   
-  <img src="https://github-profile-trophy.vercel.app/?username=skimatt&theme=discord&column=4&no-frame=true&margin-w=15&margin-h=15" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=skimatt&theme=darkhub&column=4&no-frame=true&margin-w=15&margin-h=15" alt="GitHub Trophies" />
   
-  ### 🌌 Connect With Me 🌌
+  ### 🤘 Connect With Me 🤘
   
-  [![Instagram](https://img.shields.io/badge/Instagram-1E1033?style=for-the-badge&logo=instagram&logoColor=AA7ED3)](https://instagram.com/skimatt_)
-  [![Portfolio](https://img.shields.io/badge/Portfolio-1E1033?style=for-the-badge&logo=google-chrome&logoColor=9D65C9)](https://skimatt.github.io/RahmatMulia/)
+  [![Instagram](https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=FF0000)](https://instagram.com/skimatt_)
+  [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=FF0000)](https://skimatt.github.io/RahmatMulia/)
   
-  ![Profile Views](https://komarev.com/ghpvc/?username=skimatt&color=9D65C9&style=flat-square&base=1654)
+  ![Profile Views](https://komarev.com/ghpvc/?username=skimatt&color=FF0000&style=flat-square&base=1654)
   
-  ### 🌠 Contribution Snake 🌠
+  ### 🔥 Contribution Snake 🔥
   
 <div align="center">
   <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="Contribution Snake Animation" width="100%">
 </div>
   
-  <em>"In every walk with nature one receives far more than he seeks." — John Muir</em>
-
+  <em>"Rock and roll is not just music, it's a way of life." — Lemmy Kilmister</em>
 </div>
