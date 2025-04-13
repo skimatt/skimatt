@@ -1,67 +1,7 @@
 <div align="center">
-  <style>
-    /* Glitch effect style */
-    .glitch {
-      font-family: 'Sacramento', cursive;
-      font-size: 50px;
-      color: #9D65C9;
-      position: relative;
-      display: inline-block;
-      animation: glitch 1s infinite;
-    }
-
-    .glitch:before, .glitch:after {
-      content: "skimatt";
-      position: absolute;
-      top: 0;
-      left: 0;
-      color: #9D65C9;
-      overflow: hidden;
-      clip: rect(0, 900px, 0, 0);
-      z-index: -1;
-    }
-
-    .glitch:before {
-      animation: glitch-before 1s infinite;
-      left: 2px;
-      text-shadow: -1px 0 red, 1px 0 blue;
-    }
-
-    .glitch:after {
-      animation: glitch-after 1s infinite;
-      left: -2px;
-      text-shadow: 1px 0 red, -1px 0 blue;
-    }
-
-    @keyframes glitch {
-      0% { transform: translate(0); }
-      20% { transform: translate(-2px, -2px); }
-      40% { transform: translate(-3px, 0); }
-      60% { transform: translate(3px, 2px); }
-      80% { transform: translate(2px, -1px); }
-      100% { transform: translate(0); }
-    }
-
-    @keyframes glitch-before {
-      0% { clip: rect(0, 900px, 0, 0); }
-      25% { clip: rect(0, 900px, 0, 0); }
-      50% { clip: rect(0, 900px, 0, 0); }
-      75% { clip: rect(0, 900px, 0, 0); }
-      100% { clip: rect(0, 900px, 0, 0); }
-    }
-
-    @keyframes glitch-after {
-      0% { clip: rect(0, 900px, 0, 0); }
-      25% { clip: rect(0, 900px, 0, 0); }
-      50% { clip: rect(0, 900px, 0, 0); }
-      75% { clip: rect(0, 900px, 0, 0); }
-      100% { clip: rect(0, 900px, 0, 0); }
-    }
-  </style>
-
-  <!-- Glitch effect text -->
-  <span class="glitch">skimatt</span>
+  ![Glitch Effect](https://path_to_your_image.gif) <!-- Replace with your image URL -->
 </div>
+
 
 
   <!-- Forest Landscape GIF -->
