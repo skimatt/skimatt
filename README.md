@@ -1,62 +1,76 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Orbitron&color=F637EC&size=45&center=true&vCenter=true&width=1000&lines=01101000+01101001+I'm+skimatt;WELCOME+TO+MY+DIGITAL+REALM;FULL-STACK+NETRUNNER+%26+CODE+ARCHITECT;LET'S+HACK+THE+MAINFRAME+TOGETHER)](https://git.io/typing-svg)
+# ✨ Harmony of Nature ✨
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Sacramento&color=7ECEA2&size=45&center=true&vCenter=true&width=1000&lines=Welcome+to+my+peaceful+sanctuary;Where+code+and+nature+become+one;Creating+digital+gardens+with+every+line;Let's+grow+something+beautiful+together)](https://git.io/typing-svg)
 
 <div align="center">
-  <img src="https://i.pinimg.com/originals/e1/7a/b9/e17ab9681bec36303a67cd0e13a7b170.gif" alt="Profile GIF" width="800"/>
+  <img src="https://i.pinimg.com/originals/05/26/fc/0526fc32bae551832ca57149d92c5dd0.gif" alt="Forest Landscape" width="800"/>
 </div>
 
-<h2 align="center"><span style="color:#F637EC">⚡ TECH AUGMENTATIONS ⚡</span></h2>
+## 🍃 Digital Botanist's Collection 🌿
 
 <div align="center">
   
-  [![My Arsenal](https://skillicons.dev/icons?i=html,css,js,python,php,react,nodejs,mysql,git,vscode&theme=dark)](https://github.com/skimatt)
+  [![My Garden Tools](https://skillicons.dev/icons?i=html,css,js,python,php,react,nodejs,mysql,git,vscode&theme=light)](https://github.com/skimatt)
   
 </div>
 
-<h2 align="center"><span style="color:#00F5FF">📊 NEURAL METRICS</span></h2>
+## 🌱 Growth Patterns
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=skimatt&theme=synthwave&hide_border=true&background=000000&stroke=00F5FF&fire=F637EC&currStreakNum=F637EC&ring=00F5FF&currStreakLabel=00F5FF&sideNums=F637EC&sideLabels=00F5FF" alt="GitHub Streak" height="180em" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=skimatt&theme=calm&hide_border=true&background=F3FCF0&stroke=7ECEA2&fire=BED1C3&currStreakNum=5FA880&ring=91C7A5&currStreakLabel=5FA880&sideNums=5FA880&sideLabels=91C7A5" alt="GitHub Streak" height="180em" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=skimatt&show_icons=true&theme=radical&hide_border=true&bg_color=000000&title_color=00F5FF&text_color=F637EC&icon_color=00F5FF" alt="GitHub Stats" height="180em" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=skimatt&layout=compact&theme=radical&hide_border=true&bg_color=000000&title_color=00F5FF&text_color=F637EC" alt="Top Languages" height="180em" />
+  <img src="https://github-readme-stats.vercel.app/api?username=skimatt&show_icons=true&theme=vue&hide_border=true&bg_color=F3FCF0&title_color=5FA880&text_color=68A691&icon_color=91C7A5" alt="GitHub Stats" height="180em" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=skimatt&layout=compact&theme=vue&hide_border=true&bg_color=F3FCF0&title_color=5FA880&text_color=68A691" alt="Top Languages" height="180em" />
 </p>
 
-<h2 align="center"><span style="color:#F637EC">🏆 BLACK MARKET ACHIEVEMENTS</span></h2>
+## 🌿 Collected Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=skimatt&theme=radical&column=8&no-frame=true&margin-w=15" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=skimatt&theme=oldie&column=8&no-frame=true&margin-w=15" alt="GitHub Trophies" />
 </p>
 
-<h2 align="center"><span style="color:#00F5FF">🔗 NETWORK UPLINKS</span></h2>
+## 🍂 Connect Through the Breeze
 
 <div align="center">
   
-  [![Instagram](https://img.shields.io/badge/Instagram-0A0A0A?style=for-the-badge&logo=instagram&logoColor=00F5FF)](https://instagram.com/skimatt_)
-  [![Portfolio](https://img.shields.io/badge/Portfolio-0A0A0A?style=for-the-badge&logo=google-chrome&logoColor=F637EC)](https://skimatt.github.io/RahmatMulia/)
+  [![Instagram](https://img.shields.io/badge/Instagram-F3FCF0?style=for-the-badge&logo=instagram&logoColor=5FA880)](https://instagram.com/skimatt_)
+  [![Portfolio](https://img.shields.io/badge/Portfolio-F3FCF0?style=for-the-badge&logo=google-chrome&logoColor=7ECEA2)](https://skimatt.github.io/RahmatMulia/)
   
 </div>
 
 <div align="center">
   
-  ### <span style="color:#F637EC">👁️ SURVEILLANCE COUNTER</span>
-  
-  ![Profile Views](https://komarev.com/ghpvc/?username=skimatt&color=F637EC&style=flat-square&base=1654)
+  ### 🦋 Visitors Who Wandered Through
+
+  ![Profile Views](https://komarev.com/ghpvc/?username=skimatt&color=7ECEA2&style=flat-square&base=1654)
   
 </div>
 
 <div align="center">
-  <img src="https://i.imgur.com/waxVImv.png" alt="Animated Divider" width="100%" height="4">
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="Contribution Snake Animation" width="100%">
 </div>
 
 <div align="center">
-  <pre style="background-color:#000000;color:#00F5FF;font-family:Consolas;">
-   _____  __    _                    __  __ 
-  / ___/ / /__ (_)____ ___   ____ _/ /_/ /_
-  \__ \ / //_// // __ `__ \ / __ `/ __/ __/
- ___/ // ,<  / // / / / / // /_/ / /_/ /_  
-/____//_/|_|/_//_/ /_/ /_/ \__,_/\__/\__/  
-                                           
+  <pre style="background-color:#F3FCF0;color:#5FA880;font-family:'Courier New'">
+   __    __                                          
+  / /_  / /_  ____  ____ ___  ___  ____  __  __     
+ / __ \/ __ \/ __ \/ __ `__ \/ _ \/ __ \/ / / /     
+/ /_/ / / / / /_/ / / / / / /  __/ / / / /_/ /      
+\____/_/ /_/\____/_/ /_/ /_/\___/_/ /_/\__, /       
+               _     _                 /____/        
+              (_)   (_)                             
+ ___  ___ _ __ _ ___ _ ___                          
+/ __|/ _ \ '__| / __| / __|                         
+\__ \  __/ |  | \__ \ \__ \                         
+|___/\___|_|  |_|___/_|___/                         
+                                                    
   </pre>
+</div>
+
+---
+
+<div align="center">
+  <em>"In every walk with nature one receives far more than he seeks." — John Muir</em>
 </div>
