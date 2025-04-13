@@ -1,6 +1,4 @@
-<div align="center">
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Fira+Code&color=ffffff&size=45&center=true&vCenter=true&width=1000&lines=👋+Hi,+I'Skimatt!;Welcome+to+my+GitHub!;Let's+create+something+awesome!)](https://git.io/typing-svg)
-</div>
+
   <!-- Forest Landscape GIF -->
   <img src="https://i.pinimg.com/originals/05/26/fc/0526fc32bae551832ca57149d92c5dd0.gif" alt="Forest Landscape" width="800"/>
 
