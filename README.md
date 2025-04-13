@@ -1,12 +1,5 @@
 <div align="center">
-  <!-- Typing animation -->
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Sacramento&color=9D65C9&size=45&center=true&vCenter=true&width=1000&lines=Welcome+to+my+peaceful+sanctuary;Where+code+and+nature+become+one;Creating+digital+gardens+with+every+line;Let's+grow+something+beautiful+together" alt="Typing SVG"/>
-  </a>
-  <img src="https://i.pinimg.com/originals/05/26/fc/0526fc32bae551832ca57149d92c5dd0.gif" alt="Forest Landscape" width="800"/>
-  <a href="https://github.com/skimatt">
-    <img src="https://skillicons.dev/icons?i=html,css,js,python,php,react,nodejs,mysql,git,vscode&theme=dark" alt="Garden Tools" />
-  </a>
+  
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=skimatt&theme=material-palenight&hide_border=true&background=1E1033&stroke=9D65C9&fire=B288E0&currStreakNum=AA7ED3&ring=8A4FBD&currStreakLabel=AA7ED3&sideNums=AA7ED3&sideLabels=8A4FBD" alt="GitHub Streak" height="180em" />
 
   <table>
