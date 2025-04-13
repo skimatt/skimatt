@@ -1,8 +1,68 @@
 <div align="center">
-  <!-- Typing animation -->
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Sacramento&color=9D65C9&size=45&center=true&vCenter=true&width=1000&lines=Welcome+to+my+peaceful+sanctuary;Where+code+and+nature+become+one;Creating+digital+gardens+with+every+line;Let's+grow+something+beautiful+together" alt="Typing SVG"/>
-  </a>
+  <style>
+    /* Glitch effect style */
+    .glitch {
+      font-family: 'Sacramento', cursive;
+      font-size: 50px;
+      color: #9D65C9;
+      position: relative;
+      display: inline-block;
+      animation: glitch 1s infinite;
+    }
+
+    .glitch:before, .glitch:after {
+      content: "skimatt";
+      position: absolute;
+      top: 0;
+      left: 0;
+      color: #9D65C9;
+      overflow: hidden;
+      clip: rect(0, 900px, 0, 0);
+      z-index: -1;
+    }
+
+    .glitch:before {
+      animation: glitch-before 1s infinite;
+      left: 2px;
+      text-shadow: -1px 0 red, 1px 0 blue;
+    }
+
+    .glitch:after {
+      animation: glitch-after 1s infinite;
+      left: -2px;
+      text-shadow: 1px 0 red, -1px 0 blue;
+    }
+
+    @keyframes glitch {
+      0% { transform: translate(0); }
+      20% { transform: translate(-2px, -2px); }
+      40% { transform: translate(-3px, 0); }
+      60% { transform: translate(3px, 2px); }
+      80% { transform: translate(2px, -1px); }
+      100% { transform: translate(0); }
+    }
+
+    @keyframes glitch-before {
+      0% { clip: rect(0, 900px, 0, 0); }
+      25% { clip: rect(0, 900px, 0, 0); }
+      50% { clip: rect(0, 900px, 0, 0); }
+      75% { clip: rect(0, 900px, 0, 0); }
+      100% { clip: rect(0, 900px, 0, 0); }
+    }
+
+    @keyframes glitch-after {
+      0% { clip: rect(0, 900px, 0, 0); }
+      25% { clip: rect(0, 900px, 0, 0); }
+      50% { clip: rect(0, 900px, 0, 0); }
+      75% { clip: rect(0, 900px, 0, 0); }
+      100% { clip: rect(0, 900px, 0, 0); }
+    }
+  </style>
+
+  <!-- Glitch effect text -->
+  <span class="glitch">skimatt</span>
+</div>
+
 
   <!-- Forest Landscape GIF -->
   <img src="https://i.pinimg.com/originals/05/26/fc/0526fc32bae551832ca57149d92c5dd0.gif" alt="Forest Landscape" width="800"/>
