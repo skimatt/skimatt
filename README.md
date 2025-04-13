@@ -29,7 +29,7 @@
 
   <!-- GitHub Trophies displayed horizontally -->
   <div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 15px;">
-    <img src="https://github-profile-trophy.vercel.app/?username=skimatt&theme=discord&no-frame=true&margin-w=15&margin-h=15&column=6" alt="GitHub Trophies" />
+    <img src="https://github-profile-trophy.vercel.app/?username=skimatt&theme=discord&no-frame=true&margin-w=15&margin-h=15&column=5" alt="GitHub Trophies" />
 
   </div>
 
