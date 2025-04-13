@@ -1,8 +1,4 @@
-<div align="center">
-  <!-- Typing animation -->
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Sacramento&color=9D65C9&size=45&center=true&vCenter=true&width=1000&lines=Welcome+to+my+peaceful+sanctuary;Where+code+and+nature+become+one;Creating+digital+gardens+with+every+line;Let's+grow+something+beautiful+together" alt="Typing SVG"/>
-  </a>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Fira+Code&color=ffffff&size=45&center=true&vCenter=true&width=1000&lines=👋+Hi,+I'Skimatt!;Welcome+to+my+GitHub!;Let's+create+something+awesome!)](https://git.io/typing-svg)
 
   <!-- Forest Landscape GIF -->
   <img src="https://i.pinimg.com/originals/05/26/fc/0526fc32bae551832ca57149d92c5dd0.gif" alt="Forest Landscape" width="800"/>
