@@ -34,7 +34,9 @@
   
   ### 🌠 Contribution Snake 🌠
   
-  ![GitHub Snake dark](https://raw.githubusercontent.com/skimatt/skimatt/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+<div align="center">
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="Contribution Snake Animation" width="100%">
+</div>
   
   <em>"In every walk with nature one receives far more than he seeks." — John Muir</em>
 
