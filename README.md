@@ -1,14 +1,8 @@
 <div align="center">
-  <svg width="300" height="100" xmlns="http://www.w3.org/2000/svg">
-    <defs>
-      <linearGradient id="grad1" x1="0%" y1="0%" x2="100%" y2="100%">
-        <stop offset="0%" style="stop-color:rgb(255,0,0);stop-opacity:1" />
-        <stop offset="100%" style="stop-color:rgb(0,0,255);stop-opacity:1" />
-      </linearGradient>
-    </defs>
-    <text x="10" y="50" font-family="Verdana" font-size="35" fill="url(#grad1)">skimatt</text>
-  </svg>
-</div>
+  <!-- Typing animation -->
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Sacramento&color=9D65C9&size=45&center=true&vCenter=true&width=1000&lines=Welcome+to+my+peaceful+sanctuary;Where+code+and+nature+become+one;Creating+digital+gardens+with+every+line;Let's+grow+something+beautiful+together" alt="Typing SVG"/>
+  </a>
 
   <!-- Forest Landscape GIF -->
   <img src="https://i.pinimg.com/originals/05/26/fc/0526fc32bae551832ca57149d92c5dd0.gif" alt="Forest Landscape" width="800"/>
