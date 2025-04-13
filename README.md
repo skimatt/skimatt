@@ -1,4 +1,3 @@
-# ✨ Harmony of Nature ✨
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Sacramento&color=7ECEA2&size=45&center=true&vCenter=true&width=1000&lines=Welcome+to+my+peaceful+sanctuary;Where+code+and+nature+become+one;Creating+digital+gardens+with+every+line;Let's+grow+something+beautiful+together)](https://git.io/typing-svg)
 
@@ -6,7 +5,7 @@
   <img src="https://i.pinimg.com/originals/05/26/fc/0526fc32bae551832ca57149d92c5dd0.gif" alt="Forest Landscape" width="800"/>
 </div>
 
-## 🍃 Digital Botanist's Collection 🌿
+
 
 <div align="center">
   
@@ -14,7 +13,7 @@
   
 </div>
 
-## 🌱 Growth Patterns
+
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=skimatt&theme=calm&hide_border=true&background=F3FCF0&stroke=7ECEA2&fire=BED1C3&currStreakNum=5FA880&ring=91C7A5&currStreakLabel=5FA880&sideNums=5FA880&sideLabels=91C7A5" alt="GitHub Streak" height="180em" />
@@ -25,13 +24,13 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=skimatt&layout=compact&theme=vue&hide_border=true&bg_color=F3FCF0&title_color=5FA880&text_color=68A691" alt="Top Languages" height="180em" />
 </p>
 
-## 🌿 Collected Achievements
+
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=skimatt&theme=oldie&column=8&no-frame=true&margin-w=15" alt="GitHub Trophies" />
 </p>
 
-## 🍂 Connect Through the Breeze
+
 
 <div align="center">
   
@@ -42,7 +41,7 @@
 
 <div align="center">
   
-  ### 🦋 Visitors Who Wandered Through
+
 
   ![Profile Views](https://komarev.com/ghpvc/?username=skimatt&color=7ECEA2&style=flat-square&base=1654)
   
@@ -52,24 +51,6 @@
   <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="Contribution Snake Animation" width="100%">
 </div>
 
-<div align="center">
-  <pre style="background-color:#F3FCF0;color:#5FA880;font-family:'Courier New'">
-   __    __                                          
-  / /_  / /_  ____  ____ ___  ___  ____  __  __     
- / __ \/ __ \/ __ \/ __ `__ \/ _ \/ __ \/ / / /     
-/ /_/ / / / / /_/ / / / / / /  __/ / / / /_/ /      
-\____/_/ /_/\____/_/ /_/ /_/\___/_/ /_/\__, /       
-               _     _                 /____/        
-              (_)   (_)                             
- ___  ___ _ __ _ ___ _ ___                          
-/ __|/ _ \ '__| / __| / __|                         
-\__ \  __/ |  | \__ \ \__ \                         
-|___/\___|_|  |_|___/_|___/                         
-                                                    
-  </pre>
-</div>
-
----
 
 <div align="center">
   <em>"In every walk with nature one receives far more than he seeks." — John Muir</em>
