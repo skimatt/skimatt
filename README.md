@@ -40,8 +40,6 @@
     <img src="https://img.shields.io/badge/Portfolio-1E1033?style=for-the-badge&logo=google-chrome&logoColor=9D65C9" alt="Portfolio"/>
   </a>
 
-  <!-- Profile Views Counter -->
-  <img src="https://komarev.com/ghpvc/?username=skimatt&color=9D65C9&style=flat-square&base=1654" alt="Profile Views"/>
 
   <!-- Contribution Snake Animation -->
   <div>
