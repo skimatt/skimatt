@@ -1,49 +1,50 @@
+# ༺°❀ Welcome to My Peaceful Sanctuary ❀°༻
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Sacramento&color=7ECEA2&size=45&center=true&vCenter=true&width=1000&lines=Welcome+to+my+peaceful+sanctuary;Where+code+and+nature+become+one;Creating+digital+gardens+with+every+line;Let's+grow+something+beautiful+together)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Dancing+Script&color=9BBFAD&size=40&center=true&vCenter=true&width=1000&lines=Finding+harmony+in+every+line+of+code;Creating+with+purpose+and+tranquility;Where+technology+meets+nature;Building+a+peaceful+digital+garden)](https://git.io/typing-svg)
 
 <div align="center">
-  <img src="https://i.pinimg.com/originals/05/26/fc/0526fc32bae551832ca57149d92c5dd0.gif" alt="Forest Landscape" width="800"/>
+  <img src="https://i.pinimg.com/originals/77/ca/a3/77caa32884d735d439ade45713c845eb.gif" alt="Peaceful Nature Scene" width="800"/>
 </div>
 
-
-
-<div align="center">
-  
-  [![My Garden Tools](https://skillicons.dev/icons?i=html,css,js,python,php,react,nodejs,mysql,git,vscode&theme=light)](https://github.com/skimatt)
-  
-</div>
-
-
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=skimatt&theme=calm&hide_border=true&background=F3FCF0&stroke=7ECEA2&fire=BED1C3&currStreakNum=5FA880&ring=91C7A5&currStreakLabel=5FA880&sideNums=5FA880&sideLabels=91C7A5" alt="GitHub Streak" height="180em" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=skimatt&show_icons=true&theme=vue&hide_border=true&bg_color=F3FCF0&title_color=5FA880&text_color=68A691&icon_color=91C7A5" alt="GitHub Stats" height="180em" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=skimatt&layout=compact&theme=vue&hide_border=true&bg_color=F3FCF0&title_color=5FA880&text_color=68A691" alt="Top Languages" height="180em" />
-</p>
-
-
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=skimatt&theme=oldie&column=8&no-frame=true&margin-w=15" alt="GitHub Trophies" />
-</p>
-
-
+## ⋆｡°✩ My Gentle Tools ✩°｡⋆
 
 <div align="center">
   
-  [![Instagram](https://img.shields.io/badge/Instagram-F3FCF0?style=for-the-badge&logo=instagram&logoColor=5FA880)](https://instagram.com/skimatt_)
-  [![Portfolio](https://img.shields.io/badge/Portfolio-F3FCF0?style=for-the-badge&logo=google-chrome&logoColor=7ECEA2)](https://skimatt.github.io/RahmatMulia/)
+  [![Tools for Creating](https://skillicons.dev/icons?i=html,css,js,python,react,nodejs,figma,vscode&theme=light)](https://github.com/username)
   
 </div>
 
+## ⋆｡°✩ Growth & Journey ✩°｡⋆
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=username&theme=ayu-light&hide_border=true&background=F8F5F0&stroke=9BBFAD&fire=D0C1A2&currStreakNum=829E8C&ring=B3C9BB&currStreakLabel=829E8C&sideNums=829E8C&sideLabels=B3C9BB" alt="GitHub Streak" height="180em" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=username&show_icons=true&theme=vue&hide_border=true&bg_color=F8F5F0&title_color=829E8C&text_color=8A9E91&icon_color=B3C9BB" alt="GitHub Stats" height="180em" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=username&layout=compact&theme=vue&hide_border=true&bg_color=F8F5F0&title_color=829E8C&text_color=8A9E91" alt="Top Languages" height="180em" />
+</p>
+
+## ⋆｡°✩ Achievements Along the Path ✩°｡⋆
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=username&theme=flat&column=6&no-frame=true&margin-w=15&no-bg=true&rank=SECRET,SSS,SS,S,AAA,AA,A,B" alt="GitHub Trophies" />
+</p>
+
+## ⋆｡°✩ Connect in Harmony ✩°｡⋆
+
 <div align="center">
   
+  [![Instagram](https://img.shields.io/badge/Instagram-F8F5F0?style=for-the-badge&logo=instagram&logoColor=829E8C)](https://instagram.com/username)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-F8F5F0?style=for-the-badge&logo=linkedin&logoColor=829E8C)](https://linkedin.com/in/username)
+  [![Portfolio](https://img.shields.io/badge/Portfolio-F8F5F0?style=for-the-badge&logo=google-chrome&logoColor=9BBFAD)](https://username.github.io)
+  [![Email](https://img.shields.io/badge/Email-F8F5F0?style=for-the-badge&logo=gmail&logoColor=D0C1A2)](mailto:email@example.com)
+  
+</div>
 
-
-  ![Profile Views](https://komarev.com/ghpvc/?username=skimatt&color=7ECEA2&style=flat-square&base=1654)
+<div align="center">
+  
+  ![Profile Views](https://komarev.com/ghpvc/?username=username&color=9BBFAD&style=flat-square&label=Gentle+Visitors)
   
 </div>
 
@@ -51,7 +52,11 @@
   <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="Contribution Snake Animation" width="100%">
 </div>
 
-
 <div align="center">
-  <em>"In every walk with nature one receives far more than he seeks." — John Muir</em>
+  <br>
+  <img src="https://i.pinimg.com/originals/4a/d3/1e/4ad31e381e2d14a8c1b927eba3af4191.gif" alt="Peaceful Divider" width="700">
+  <br><br>
+  <em>"Peace comes from within. Do not seek it without." — Buddha</em>
 </div>
+
+<!-- Replace 'username' with your actual GitHub username throughout the document -->
