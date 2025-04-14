@@ -1,12 +1,5 @@
 <div align="center" style="font-family: Arial, sans-serif; color: #B288E0;">
 
-  <!-- GitHub Streak -->
-  <img 
-    src="https://github-readme-streak-stats.herokuapp.com/?user=skimatt&theme=material-palenight&hide_border=true&background=1E1033&stroke=9D65C9&fire=B288E0&currStreakNum=AA7ED3&ring=8A4FBD&currStreakLabel=AA7ED3&sideNums=AA7ED3&sideLabels=8A4FBD" 
-    alt="GitHub Streak" 
-    height="180em" 
-    style="margin-bottom: 20px;"
-  />
 
   <!-- GitHub Stats and Top Languages -->
   <table style="margin: 0 auto; border-collapse: collapse;">
