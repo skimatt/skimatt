@@ -1,5 +1,4 @@
-<!-- GitHub Profile README -->
-https://github.com/skimatt/skimatt/blob/main/README.md
+
 <h1 align="center">Hi, I'm Rahmat 👋</h1>
 <p align="center">Web Developer | AI Enthusiast | Lifelong Learner</p>
 
