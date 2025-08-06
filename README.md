@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi, I'm Rahmat 👋</h1>
+<h1 align="center">Hi, I'm Skimatt 👋</h1>
 <p align="center">Web Developer | AI Enthusiast | Lifelong Learner</p>
 
 <div align="center">
