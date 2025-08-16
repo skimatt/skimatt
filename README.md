@@ -7,8 +7,8 @@
 
 <div align="center">
   <!-- Most Used Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Skimatt&layout=compact&theme=tokyonight" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Skimatt&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
   
   <!-- Streak Stats -->
-  <img src="https://streak-stats.demolab.com/?user=Skimatt&theme=tokyonight&hide_border=false" height="180"/>
+  <img src="https://streak-stats.demolab.com/?user=Skimatt&theme=tokyonight&hide_border=true" height="180"/>
 </div>
