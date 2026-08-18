@@ -64,6 +64,7 @@
 
 ### 🌐 Featured Projects & Innovations
 
+- 🤖 **[AI & Tech Trends Digest](https://github.com/skimatt/ai-tech-trends-digest)** — Automated intelligence radar tracking high-growth AI repositories, Hugging Face models, and modern frameworks.
 - 🚀 **[Almuslim Digital Experience](https://github.com/skimatt/AlmuslimDigitalExperience)** — Immersive digital platform celebrating academic culture, innovation, and heritage.
 - ⚡ **[PerformaDashboard](https://github.com/skimatt/PerformaDashboard)** — Smart Windows Laptop Control Center & Performance Optimizer.
 - 🏛️ **[Notaris & PPAT Digital CMS](https://github.com/skimatt/notaris-ppat-yanti-julia)** — Minimalist High-Trust Digital Office for Notaris & PPAT Yanti Julia, SH, MKn.
